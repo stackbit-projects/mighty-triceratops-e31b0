@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/maravilla/fotos/1032021V-caja1.jpeg
+    background_image: images/princial LOGO.JPG
     background_image_opacity: 65
     content: >
       # ¡El buen vestir a bajos precios está a tu alcance!
