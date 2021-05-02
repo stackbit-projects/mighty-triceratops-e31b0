@@ -7,11 +7,12 @@ sections:
     section_id: hero_section
     background_image: images/maravilla/fotos/1032021V-caja1.jpeg
     background_image_opacity: 65
-    content: >-
-      # Real, beautiful plants right to your door
+    content: >
+      # ¡El buen vestir a bajos precios está a tu alcance!
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+
+      Aprende a costurar con nuestros kits, y pronto harás tus propias prendas
+      como más te gusten.
     actions:
       - title: See all items
         url: /store
